@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thang
-- 👀 I’m interested in Domain Driven Design, Functional Programming and all things JavaScript!
-- 🌱 I’m currently learning Golang, AWS & system design.
+- 👀 I’m interested in Domain Driven Design and Functional Programming!
+- 🌱 I’m currently learning Elixir & Phoenix.
 - 💞️ I’m looking to collaborate on projects that solve real problems, even if it's just you experiencing it!
 - 📫 How to reach me: email is best (thangnus@gmail.com), but hit me up if you're based in Auckland, NZ!
 
